@@ -64,7 +64,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 <div align="center">
 
-| 27 | 20+ | 3 | Active |
+| 38 | 20+ | 3 | Active |
 |:---:|:---:|:---:|:---:|
 | Hacker101 CTF pts | Disclosed reports analyzed | Focus classes locked | HackerOne VDP hunting |
 
@@ -115,7 +115,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 ## 📌 Currently
 
-Working through every lab across the three focus classes above, and hunting as many HackerOne VDP programs as time allows. No live paid submission yet — that's the next milestone, not a claim made early.
+Working through every lab across the three focus classes above, and hunting as many HackerOne VDP programs as time allows. No live paid submission yet — that's the next milestone, not a claim made early. Plan is to start Bug bounty programs Jan-14 onwards
 
 <br>
 
