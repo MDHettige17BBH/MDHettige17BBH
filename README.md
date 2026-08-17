@@ -29,7 +29,7 @@ I started teaching myself web application security at 17. No formal training, no
 
 The plan is narrow on purpose: **three vulnerability classes**, studied deep instead of four studied shallow. Everything I ship publicly — lab writeups, disclosed-report breakdowns, live findings — gets logged as it happens, not cleaned up after the fact.
 
-I'm early. I say that without apology — every senior researcher was early once. What I can promise is that the reps are real, methodology gets updated monthly, and there's a hard rule against staying in "preparation mode" forever. This is the long game.
+I'm early — every senior researcher was early once. What I can promise is that the reps are real, methodology gets updated monthly, and there's a hard rule against staying in "preparation mode" forever. This is the long game.
 
 <br>
 
