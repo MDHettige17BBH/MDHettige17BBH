@@ -23,7 +23,7 @@ Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, 
 
 <br>
 
-## About
+## About me:
 
 I started teaching myself web application security at 17. No formal training, no bootcamp — just PortSwigger labs at dawn, disclosed reports read line by line, and the slow, unglamorous work of learning to think like the application instead of just clicking around it.
 
@@ -33,25 +33,25 @@ I'm early — every senior researcher was early once. What I can promise is that
 
 <br>
 
-## 🎯 Focus Areas
+## Focus vulnerability classes
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔓 IDOR / Broken Access Control
+### IDOR / Broken Access Control
 Horizontal & vertical privilege escalation. Accessing other users' data by manipulating IDs and parameters.
 
 </td>
 <td width="33%" valign="top">
 
-### 🔑 Authentication Flaws
+### Authentication Flaws
 Password reset bugs, session fixation, MFA bypass, and token predictability.
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Business Logic
+### Business Logic flaws
 Workflow abuse, price manipulation, and trust boundary violations that scanners can't find.
 
 </td>
@@ -60,19 +60,19 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 <br>
 
-## 📊 By the Numbers
+## By the Numbers
 
 <div align="center">
 
 | 38 | 20+ | 3 | Active |
 |:---:|:---:|:---:|:---:|
-| Hacker101 CTF pts | Disclosed reports analyzed | Focus classes locked | HackerOne VDP hunting |
+| Hacker101 CTF points | Disclosed reports analyzed | Focus classes locked | HackerOne VDP hunting |
 
 </div>
 
 <br>
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
 **Languages**
 
@@ -83,7 +83,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Testing & Recon**
+**Tools I'm using for testing & recon**
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
@@ -101,19 +101,19 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 <br>
 
-## 📁 Repositories
+## Repositories 
 
 | Repo | Description |
 |---|---|
-| [**Bug-bounty-writeups**](https://github.com/Malikdishan416/Bug-bounty-writeups) | Structured practice — PortSwigger lab writeups only |
+| [**Bug-bounty-writeups**](https://github.com/Malikdishan416/Bug-bounty-writeups) | Structured practice — Mostly PortSwigger lab writeups |
 | [**Research-notes**](https://github.com/Malikdishan416/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
-| [**CTF**](https://github.com/Malikdishan416/CTF) | Capture The Flag challenges across several platforms |
-| [**Bug-bounty-reports**](https://github.com/Malikdishan416/Bug-bounty-reports) | Real track record — live hunt findings, disclosed report analysis, lessons from rejections |
-| [**malikdishan416.github.io**](https://github.com/Malikdishan416/malikdishan416.github.io) | Source for the live portfolio site |
+| [**CTF**](https://github.com/Malikdishan416/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
+| [**Bug-bounty-reports**](https://github.com/Malikdishan416/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
+| [**malikdishan416.github.io**](https://github.com/Malikdishan416/malikdishan416.github.io) | Source for my main live portfolio site |
 
 <br>
 
-## 📌 Currently
+## Currently
 
 Working through every lab across the three focus classes above, and hunting as many HackerOne VDP programs as time allows. No live paid submission yet — that's the next milestone, not a claim made early. Plan is to start Bug bounty programs Jan-14 onwards
 
