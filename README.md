@@ -10,7 +10,7 @@ Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, 
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-MDHettige17BBH.github.io-3FA9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://malikdishan416.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-MDHettige17BBH.github.io-3FA9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://MDHettige17BBH.github.io)
 
 <br>
 
@@ -107,13 +107,13 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 | Repo | Description |
 |---|---|
-| [**Bug-bounty-writeups**](https://github.com/Malikdishan416/Bug-bounty-writeups) | Structured practice — Mostly PortSwigger lab writeups |
-| [**Research-notes**](https://github.com/Malikdishan416/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
-| [**CTF**](https://github.com/Malikdishan416/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
-| [**Bug-bounty-reports**](https://github.com/Malikdishan416/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
-| [**malikdishan416.github.io**](https://github.com/Malikdishan416/MDHettige17BBH.github.io) | Source for my main live portfolio site |
+| [**Bug-bounty-writeups**](https://github.com/MDHettige17BBH/Bug-bounty-writeups) | Structured practice — Mostly PortSwigger lab writeups |
+| [**Research-notes**](https://github.com/MDHettige17BBH/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
+| [**CTF**](https://github.com/MDHettige17BBH/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
+| [**Bug-bounty-reports**](https://github.com/MDHettige17BBH/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
+| [**malikdishan416.github.io**](https://github.com//MDHettige17BBH.github.io) | Source for my main live portfolio site |
 
-<br>
+<br> 
 
 ## Currently
 
