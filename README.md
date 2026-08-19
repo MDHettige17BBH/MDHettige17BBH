@@ -122,5 +122,5 @@ Working through every lab across the three focus classes above, and hunting as m
 ---
 
 <div align="center">
-<sub>© Malik Hettige 2026 · Full portfolio at <a href="https://malikdishan416.github.io">malikdishan416.github.io</a></sub>
+<sub>© Malik Hettige 2026 · Full portfolio at <a href="https://MalikHettigeBBH.github.io">malikdishan416.github.io</a></sub>
 </div>
