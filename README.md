@@ -14,9 +14,9 @@ Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, 
 
 <br>
 
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MDHettige17BBH)
+[![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MDHettige17BBH)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MDHettige17BBH)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MDHettige17BBH)
+[![Medium](https://img.shields.io/badge/Medium-blog-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MDHettige17BBH)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan17)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1117052789663739914)
 [![Email](https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malikdishan09@gmail.com)
