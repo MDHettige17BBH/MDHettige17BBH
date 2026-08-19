@@ -10,14 +10,14 @@ Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, 
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-MDHettige17BBH.github.io-3FA9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://MDHettige17BBH.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-MalikHettige.github.io-3FA9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://MalikHettige.github.io)
 
 <br>
 
-[![X](https://img.shields.io/badge/X-@MDHettige17BBH-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MDHettige17BBH)
-[![GitHub](https://img.shields.io/badge/GitHub-@MDHettige17BBH-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MDHettige17BBH)
-[![Medium](https://img.shields.io/badge/Medium-@MDHettige17BBH-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MDHettige17BBH)
-[![HackerOne](https://img.shields.io/badge/HackerOne-@malikdishan17-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan17)
+[![X](https://img.shields.io/badge/X-@MalikHettige-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MDHettige17BBH)
+[![GitHub](https://img.shields.io/badge/GitHub-@MalikHettige-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MDHettige17BBH)
+[![Medium](https://img.shields.io/badge/Medium-@MalikHettige-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MDHettige17BBH)
+[![HackerOne](https://img.shields.io/badge/HackerOne-@MalikHettige-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan17)
 [![Discord](https://img.shields.io/badge/Discord-mdhettige17bbh-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1117052789663739914)
 [![Email](https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malikdishan09@gmail.com)
 
@@ -107,11 +107,11 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 | Repo | Description |
 |---|---|
-| [**Bug-bounty-writeups**](https://github.com/MDHettige17BBH/Bug-bounty-writeups) | Structured practice — Mostly PortSwigger lab writeups |
-| [**Research-notes**](https://github.com/MDHettige17BBH/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
-| [**CTF**](https://github.com/MDHettige17BBH/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
-| [**Bug-bounty-reports**](https://github.com/MDHettige17BBH/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
-| [**malikdishan416.github.io**](https://github.com//MDHettige17BBH.github.io) | Source for my main live portfolio site |
+| [**Bug-bounty-writeups**](https://github.com/MalikHettige/Bug-bounty-writeups) | Structured practice — Mostly PortSwigger lab writeups |
+| [**Research-notes**](https://github.com/MalikHettige/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
+| [**CTF**](https://github.com/MalikHettige/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
+| [**Bug-bounty-reports**](https://github.com/MalikHettige/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
+| [**malikdishan416.github.io**](https://github.com/MalikHettige.github.io) | Source for my main live portfolio site |
 
 <br> 
 
@@ -124,5 +124,5 @@ Working through every lab across the three focus classes above, and hunting as m
 ---
 
 <div align="center">
-<sub>© Malik Hettige 2026 · Full portfolio at <a href="https://MDHettige17BBH.github.io">malikdishan416.github.io</a></sub>
+<sub>© Malik Hettige 2026 · Full portfolio at <a href="https://MalikHettige.github.io">malikdishan416.github.io</a></sub>
 </div>
