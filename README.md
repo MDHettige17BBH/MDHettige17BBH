@@ -111,7 +111,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 | [**Research-notes**](https://github.com/MalikHettige/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
 | [**CTF**](https://github.com/MalikHettige/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
 | [**Bug-bounty-reports**](https://github.com/MalikHettige/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
-| [**MalikHettige.github.io**](https://github.com/MalikHettige.github.io) | Source for my main live portfolio site |
+| [**MalikHettige.github.io**](https://github.com/https://MalikHettige.github.io) | Source for my main live portfolio site |
 
 <br> 
 
