@@ -74,6 +74,16 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 <br>
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MalikHettige&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" />
+
+</div>
+
+<br>
+
 ## Tools & Stack
 
 **Languages**
@@ -103,21 +113,24 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 <br>
 
-## Repositories 
+## Repositories
 
-| Repo | Description |
-|---|---|
-| [**Bug-bounty-writeups**](https://github.com/MalikHettige/Bug-bounty-writeups) | Structured practice — Mostly PortSwigger lab writeups |
-| [**Research-notes**](https://github.com/MalikHettige/Research-notes) | Distilled knowledge: cheat sheets, concepts, techniques — organized by vuln class |
-| [**CTF**](https://github.com/MalikHettige/CTF) | Capture The Flag challenges across several platforms mostly from H101 |
-| [**Bug-bounty-reports**](https://github.com/MalikHettige/Bug-bounty-reports) | Real track record — live hunt findings from mostly VDPs from hackerone, disclosed report analysis, lessons from rejections |
-| [**MalikHettige.github.io**](https://github.com/https://MalikHettige.github.io) | Source for my main live portfolio site |
+| Repo | Description | Stack |
+|---|---|:---:|
+| [**Bug-bounty-writeups**](https://github.com/MalikHettige/Bug-bounty-writeups) | Structured practice — mostly PortSwigger lab writeups across the three focus classes | Markdown |
+| [**Bug-bounty-reports**](https://github.com/MalikHettige/Bug-bounty-reports) | Real track record — live HackerOne VDP findings, disclosed report analysis, lessons from rejections | Markdown |
+| [**Research-notes**](https://github.com/MalikHettige/Research-notes) | Distilled knowledge — cheat sheets, concepts, and techniques organized by vulnerability class | Markdown |
+| [**CTF**](https://github.com/MalikHettige/CTF) | Capture The Flag challenges across several platforms, mostly Hacker101 | Markdown |
+| [**python-programming**](https://github.com/MalikHettige/python-programming) | Python tooling for security automation and bug bounty workflows | Python |
+| [**vocab-trainer**](https://github.com/MalikHettige/vocab-trainer) | A small flashcard app for drilling technical and security vocabulary | JavaScript |
+| [**web-fundamentals**](https://github.com/MalikHettige/web-fundamentals) | Core web fundamentals for security researchers and developers | Markdown |
+| [**MalikHettige.github.io**](https://github.com/MalikHettige/MalikHettige.github.io) | Source for the live portfolio site | HTML |
 
-<br> 
+<br>
 
 ## Currently
 
-Working through every lab across the three focus classes above, and hunting as many HackerOne VDP programs as time allows. No live paid submission yet — that's the next milestone, not a claim made early. Plan is to start Bug bounty programs Jan-14 onwards
+Working through every lab across the three focus classes above, and hunting as many HackerOne VDP programs as time allows. No live paid submission yet — that's the next milestone, not a claim made early. Plan is to start Bug bounty programs Jan-14 onwards.
 
 <br>
 
