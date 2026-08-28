@@ -17,7 +17,7 @@ Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, 
 [![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MalikHettige)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MalikHettige)
 [![Medium](https://img.shields.io/badge/Medium-blog-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MalikHettige)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan17)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1117052789663739914)
 [![Email](https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malikdishan09@gmail.com)
 
@@ -32,6 +32,12 @@ I started teaching myself web application security at 17. No formal training, no
 The plan is narrow on purpose: **three vulnerability classes**, studied deep instead of four studied shallow. Everything I ship publicly — lab writeups, disclosed-report breakdowns, live findings — gets logged as it happens, not cleaned up after the fact.
 
 I'm early — every senior researcher was early once. What I can promise is that the reps are real, methodology gets updated monthly, and there's a hard rule against staying in "preparation mode" forever. This is the long game.
+
+<br>
+
+<div align="center">
+<hr style="height:1px;border:none;background:linear-gradient(90deg,transparent,#3FA9FF,transparent);width:60%;">
+</div>
 
 <br>
 
@@ -106,6 +112,12 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+<br>
+
+<div align="center">
+<hr style="height:1px;border:none;background:linear-gradient(90deg,transparent,#3FA9FF,transparent);width:60%;">
+</div>
 
 <br>
 
