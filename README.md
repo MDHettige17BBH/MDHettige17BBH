@@ -76,7 +76,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 
 ## GitHub Activity
 <div align="center">
-<img src="https://github-readme-stats-yourname.vercel.app/api?username=MalikHettige&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-stats-taupe-three-27.vercel.app/api?username=MalikHettige&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
 <br>
 
