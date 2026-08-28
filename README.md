@@ -18,6 +18,8 @@ Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MalikHettige)
 [![Medium](https://img.shields.io/badge/Medium-blog-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MalikHettige)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-494649?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/MalikHettige)
+[![Intigriti](https://img.shields.io/badge/Intigriti-494649?style=flat-square&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/malikdishan17)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1117052789663739914)
 [![Email](https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malikdishan09@gmail.com)
 
