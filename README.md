@@ -134,6 +134,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 | [**python-programming**](https://github.com/MalikHettige/python-programming) | Python tooling for security automation and bug bounty workflows | Python |
 | [**web-fundamentals**](https://github.com/MalikHettige/web-fundamentals) | Core web fundamentals for security researchers and developers | Markdown |
 | [**MalikHettige.github.io**](https://github.com/MalikHettige/MalikHettige.github.io) | Source for the live portfolio site | HTML |
+| [**desync-saml-orm-ssti-chain**](https://github.com/MalikHettige/desync-saml-orm-ssti-chain) | Multi-stage security research — HTTP Desync → Golden SAML → ORM → Blind SSTI | Security Research |
 
 <br>
 
